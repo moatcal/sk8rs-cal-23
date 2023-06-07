@@ -17,7 +17,9 @@ export const Portfolio = () => {
           <Col lg="8">
             <h1 className="display-4 mb-4"> Photos </h1>{" "}
             <p>
-              To check out our podcasts, scroll down below our org's sick photos
+            To check out our podcast, scroll down below our photos. </p> <br></br>
+            <p>
+            Photography by Kyle Friend @yerba.boy
             </p>
             <hr className="t_border my-4 ml-0 text-left" />
           </Col>
