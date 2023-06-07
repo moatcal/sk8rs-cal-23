@@ -6,7 +6,10 @@ import im5 from ".//assets/images/page 6a.JPG";
 import im6 from ".//assets/images/page 14b.JPG";
 import im7 from ".//assets/images/page 16a.JPG";
 import im8 from ".//assets/images/page i.JPG";
-import zine1 from ".//assets/images/ZIne.jpg"
+import im9 from ".//assets/images/8b.jpg";
+import im10 from ".//assets/images/page15a.JPG";
+import zine1 from ".//assets/images/ZIne.jpg";
+import zine2 from ".//assets/images/photo1.jpg";
 
 const logotext = "SK8@Cal";
 const meta = {
@@ -35,8 +38,11 @@ const dataabout = {
 const zine = [
   {
     img: zine1,
-    desctiption:
-      "",
+    desctiption: "",
+  },
+  {
+    img: zine2,
+    desctiption: "Alex shredding at Waller Street Skatepark",
   },
 ];
 
@@ -77,7 +83,13 @@ const dataportfolio = [
     img: im8,
     desctiption: "A wall ride performed by Jesus at Rockridge",
   },
-
+  {  img: im9,
+    desctiption: "Stanford skate sesh with Stanford Skate Club",
+  },
+  { 
+    img: im10,
+    desctiption: "A nose grind performed by Jon"
+  },
 ];
 
 const socialprofils = {

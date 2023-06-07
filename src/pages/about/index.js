@@ -6,6 +6,7 @@ import {
   dataabout,
   meta,
 } from "../../content_option";
+import { Link } from "react-router-dom";
 
 export const About = () => {
   return (
@@ -32,8 +33,41 @@ export const About = () => {
             </div>
           </Col>
         </Row>
-        <h4 className="display-10 mb-4">For any questions, email us at berkeleyskateclub@gmail.com </h4>
+        <Row className="mb-4">
+          <Col>
+            <h3 className="subheader">Publications</h3>
+            <p className="description">Check out some external links about our org</p>
+            <div className="intro_btn-action">
+              <a href="https://www.dailycal.org/2022/03/18/skateboarding-as-a-sport-why-classification-is-a-grind" target="_blank" rel="noopener noreferrer">
+                <div id="button_h" className="ac_btn btn">
+                  Daily Cal (03/22)
+                  <div className="ring one"></div>
+                  <div className="ring two"></div>
+                  <div className="ring three"></div>
+                </div>
+              </a>
+              <a href="https://stanforddaily.com/2022/04/19/defiance-on-wheels-fashionx-and-stanford-skate-club-show-skater-fashion-at-its-finest/" target="_blank" rel="noopener noreferrer">
+                <div id="button_p" className="ac_btn btn">
+                  Stanford Daily (04/22)
+                  <div className="ring one"></div>
+                  <div className="ring two"></div>
+                  <div className="ring three"></div>
+                </div>
+              </a>
+              <a href="https://dailycal.org/2022/11/17/stoked-berkeley-skate-community-reacts-to-proposed-new-skate-spot" target="_blank" rel="noopener noreferrer">
+                <div id="button_h" className="ac_btn btn">
+                  Daily Cal(11/22)
+                  <div className="ring one"></div>
+                  <div className="ring two"></div>
+                  <div className="ring three"></div>
+                </div>
+              </a>
+            </div>
+          </Col>
+        </Row>
+        <h4 className="display-10 mb-4">For any questions, email us at berkeleyskateclub@gmail.com</h4>
       </Container>
+      <br></br>
     </HelmetProvider>
   );
 };
