@@ -1,4 +1,6 @@
+
 {
+    "homepage" : "https://moatcal.github.io/sk8rs-cal",
     "name": "react-portfolio",
     "version": "0.1.0",
     "private": true,
@@ -45,4 +47,6 @@
     "devDependencies": {
         "vivid-studio": "^0.15.0"
     }
+
+
 }
