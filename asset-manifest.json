@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sk8rs-cal-23/static/css/main.fbc00891.css",
-    "main.js": "/sk8rs-cal-23/static/js/main.f5ac46e0.js",
+    "main.js": "/sk8rs-cal-23/static/js/main.602f8537.js",
     "static/media/page 1b.JPG": "/sk8rs-cal-23/static/media/page 1b.344f0873ab414e53cae8.JPG",
     "static/media/photo1.jpg": "/sk8rs-cal-23/static/media/photo1.ee4896d32037b254abca.jpg",
     "static/media/page 4a.JPG": "/sk8rs-cal-23/static/media/page 4a.475c9c1097648525e400.JPG",
@@ -18,6 +18,6 @@
   },
   "entrypoints": [
     "static/css/main.fbc00891.css",
-    "static/js/main.f5ac46e0.js"
+    "static/js/main.602f8537.js"
   ]
 }
