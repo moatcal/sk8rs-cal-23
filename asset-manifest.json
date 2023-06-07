@@ -1,20 +1,23 @@
 {
   "files": {
     "main.css": "/sk8rs-cal-23/static/css/main.fbc00891.css",
-    "main.js": "/sk8rs-cal-23/static/js/main.2a3e93ed.js",
+    "main.js": "/sk8rs-cal-23/static/js/main.f5ac46e0.js",
     "static/media/page 1b.JPG": "/sk8rs-cal-23/static/media/page 1b.344f0873ab414e53cae8.JPG",
+    "static/media/photo1.jpg": "/sk8rs-cal-23/static/media/photo1.ee4896d32037b254abca.jpg",
     "static/media/page 4a.JPG": "/sk8rs-cal-23/static/media/page 4a.475c9c1097648525e400.JPG",
+    "static/media/page15a.JPG": "/sk8rs-cal-23/static/media/page15a.39d4cfe797a7f58ba3b8.JPG",
     "static/media/page 14b.JPG": "/sk8rs-cal-23/static/media/page 14b.3b0b9f44b8978e4c66c3.JPG",
     "static/media/page 16a.JPG": "/sk8rs-cal-23/static/media/page 16a.c4e1caea45d5f7a7d08f.JPG",
     "static/media/page 6a.JPG": "/sk8rs-cal-23/static/media/page 6a.dc09f1ad6d88ebed3182.JPG",
     "static/media/idk.JPG": "/sk8rs-cal-23/static/media/idk.3f47cc699b2a2e213a33.JPG",
     "static/media/page i.JPG": "/sk8rs-cal-23/static/media/page i.62aa49c22a379707b090.JPG",
     "static/media/17a.JPG": "/sk8rs-cal-23/static/media/17a.89e2259ccca3398e88f3.JPG",
+    "static/media/8b.jpg": "/sk8rs-cal-23/static/media/8b.f92c26664eaa8b79f80b.jpg",
     "static/media/ZIne.jpg": "/sk8rs-cal-23/static/media/ZIne.ff76a6eb7b4f25003dc5.jpg",
     "index.html": "/sk8rs-cal-23/index.html"
   },
   "entrypoints": [
     "static/css/main.fbc00891.css",
-    "static/js/main.2a3e93ed.js"
+    "static/js/main.f5ac46e0.js"
   ]
 }
