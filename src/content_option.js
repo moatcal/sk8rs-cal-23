@@ -6,7 +6,6 @@ import im5 from ".//assets/images/page 6a.JPG";
 import im6 from ".//assets/images/page 14b.JPG";
 import im7 from ".//assets/images/page 16a.JPG";
 import im8 from ".//assets/images/page i.JPG";
-import im9 from ".//assets/images/page15a.JPG";
 import zine1 from ".//assets/images/ZIne.jpg"
 
 const logotext = "SK8@Cal";
@@ -78,10 +77,7 @@ const dataportfolio = [
     img: im8,
     desctiption: "A wall ride performed by Jesus at Rockridge",
   },
-  {
-    img: im9,
-    desctiption: "A nose grind performed by Jon",
-  },
+
 ];
 
 const socialprofils = {
