@@ -8,8 +8,8 @@ import im7 from ".//assets/images/page 16a.JPG";
 import im8 from ".//assets/images/page i.JPG";
 import im9 from ".//assets/images/8b.jpg";
 import im10 from ".//assets/images/page15a.JPG";
+import im11 from ".//assets/images/photo1.jpg";
 import zine1 from ".//assets/images/ZIne.jpg";
-import zine2 from ".//assets/images/photo1.jpg";
 
 const logotext = "SK8@Cal";
 const meta = {
@@ -39,10 +39,6 @@ const zine = [
   {
     img: zine1,
     desctiption: "",
-  },
-  {
-    img: zine2,
-    desctiption: "Alex shredding at Waller Street Skatepark",
   },
 ];
 
@@ -89,6 +85,10 @@ const dataportfolio = [
   { 
     img: im10,
     desctiption: "A nose grind performed by Jon"
+  },
+  {
+    img: im11,
+    desctiption: "Alex shredding at Waller Street Skatepark",
   },
 ];
 
