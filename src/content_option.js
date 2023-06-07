@@ -32,7 +32,7 @@ const introdata = {
 const dataabout = {
   title: "Who we are",
   aboutme:
-    "Skateboarding at Berkeley founded in 2021 is UC Berkeley’s only skateboarding organization out of 1000+ student-led groups on campus. We teach students how to skate, organize collegiate skate events, and host annual skate competitions. Our impact comes from helping people with their physical and mental wellbeing by facilitating creative expressions through skateboarding.",
+    "Skateboarding at Berkeley founded in 2021 is UC Berkeley’s only skateboarding organization out of 100+ student-led groups on campus. We teach students how to skate, organize collegiate skate events, and host annual skate competitions. Our impact comes from helping people with their physical and mental wellbeing by facilitating creative expressions through skateboarding.",
 };
 
 const zine = [
